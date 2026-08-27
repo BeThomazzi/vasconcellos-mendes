@@ -35,7 +35,7 @@ export function Footer() {
                     <span>© MCMLXXXVII — MMXXVI Vasconcellos &amp; Mendes</span>
                     <div className="flex flex-col items-end gap-2">
                         <span>Em conformidade com o Provimento 205/2021 — OAB</span>
-                        <span className="eyebrow">Feito por <a href="http://devoxlabs.dev" target="_blank" rel="noopener noreferrer" className="text-ash">DeVox</a></span>
+                        <span className="text-mute">Feito por <a href="http://devoxlabs.dev" target="_blank" rel="noopener noreferrer" className="hover:text-ash hover:underline">Bernardo Thomazzi</a></span>
                     </div>
                 </div>
             </div>
